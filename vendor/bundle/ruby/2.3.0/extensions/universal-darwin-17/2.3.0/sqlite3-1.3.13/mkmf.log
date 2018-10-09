@@ -116,7 +116,7 @@ ld: warning: The i386 architecture is deprecated for macOS (remove from the Xcod
 ld: warning: ignoring file /usr/local/opt/sqlite/lib/libsqlite3.dylib, file was built for x86_64 which is not the architecture being linked (i386): /usr/local/opt/sqlite/lib/libsqlite3.dylib
 Undefined symbols for architecture i386:
   "_sqlite3_libversion_number", referenced from:
-      _t in conftest-9502b0.o
+      _t in conftest-62a661.o
 ld: symbol(s) not found for architecture i386
 clang: error: linker command failed with exit code 1 (use -v to see invocation)
 checked program was:
